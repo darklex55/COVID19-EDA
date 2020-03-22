@@ -5,3 +5,4 @@ An exploratory data analysis on data found online about the soon-to-be COVID-19 
 
 ### Todo List:
 - [ ] Collect up-to-date data on the outbreak.
+- [ ] Make an analysis on a jupyter notebook.
